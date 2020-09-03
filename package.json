@@ -1,0 +1,17 @@
+{
+    "name": "vscode-themes-pack",
+    "displayName": "VSCode Themes Pack",
+    "description": "Color and Icon theme extensions for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "license": "MIT",
+    "extensionPack": [
+        "github.github-vscode-theme",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
