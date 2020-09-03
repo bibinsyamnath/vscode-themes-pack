@@ -9,7 +9,24 @@
     "categories": [
         "Extension Packs"
     ],
+    "keywords": [
+        "theme",
+        "github",
+        "color",
+        "icon",
+        "vscode",
+        "light",
+        "dark"
+    ],
     "license": "MIT",
+    "publisher": "bibinsyamnath",
+    "author": {
+        "name": "Bibin Syamnath"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bibinsyamnath/vscode-themes-pack"
+    },
     "extensionPack": [
         "github.github-vscode-theme",
         "vscode-icons-team.vscode-icons"
